@@ -7,14 +7,14 @@ export default function ReportsSection() {
       title: "Rapport de stage - Entreprise La tête dans la toile",
       description: "Stage de développement web - 5 semaines",
       date: "Avril - Mai 2024",
-      fileUrl: "../public/documents/rapport-de-stage-levenez-alexandre-1.pdf",
+      fileUrl: "/rapport-de-stage-levenez-alexandre-1.pdf",
       fileName: "rapport-de-stage-levenez-alexandre-1.pdf", // Nom du fichier à télécharger
     },
     {
       title: "Rapport de stage - Entreprise PLR Conseil",
       description: "Stage de développement - 5 semaines",
       date: "Janvier - Février 2025",
-      fileUrl: "../public/documents/rapport-de-stage-levenez-alexandre-2.pdf",
+      fileUrl: "/rapport-de-stage-levenez-alexandre-2.pdf",
       fileName: "rapport-de-stage-levenez-alexandre-2.pdf", // Nom du fichier à télécharger
     },
   ];

@@ -22,7 +22,7 @@ export default function AboutSection() {
               Je suis toujours à la recherche de nouvelles technologies à explorer et de nouveaux défis à relever.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
-              <a href="../public/documents/cv.pdf" download="cv.pdf">
+              <a href="/cv.pdf" download="cv.pdf">
                 <Button variant="outline" className="w-full sm:w-auto">
                   Télécharger mon CV
                 </Button>
